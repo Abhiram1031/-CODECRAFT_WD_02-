@@ -17,6 +17,6 @@ A simple and responsive stopwatch web application built using *HTML, **CSS, and 
 - Start: Begins the timer using setInterval.  
 - Pause: Stops the timer and stores elapsed time.  
 - Reset: Clears the timer and lap records.  
-- Lap: Records the current time as a lap.
-- ## MIT License
+- Lap: Records the current time as a lap
+   ## MIT License
 - this project is under the MIT License
