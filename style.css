@@ -1,0 +1,13 @@
+.stopwatch {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 100px;
+}
+button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+#laps {
+  list-style: none;
+  padding: 0;
+}
